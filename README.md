@@ -1,3 +1,5 @@
+## Web Server
+
 与 [Riroaki](https://github.com/Riroaki) 协作完成。
 
 在终端中输入：clang++ -std=c++11 -o server -l pthread main.cpp即可编译。
@@ -27,4 +29,4 @@
 
 - 本实验可单独完成或组成两人小组。若组成小组，则一人负责编写服务 
 
-  器 GET 方法的响应，另一人负责编写 POST 方法的响应和服务器主线程。 
+  器 GET 方法的响应，另一人负责编写 POST 方法的响应和服务器主线程。
